@@ -1,52 +1,24 @@
+<p align="center"><img src="../img/wiki/hero.png" alt="PinDesk" width="100%"></p>
+
 ### [🏠 Inicio](Inicio.md)
 
-**Plataformas**
+**Las funciones**
 
-- 🪟 [Windows](Windows.md)
-- 🤖 [Android](Android.md)
-- 💻 [macOS](macOS.md)
-- 📱 [iPad](iPad.md)
-- 📱 [iPhone](iPhone.md)
+- [**I** · Capturar y fijar](Parte-1-Capturar-y-fijar.md) <sub>1–9</sub>
+- [**II** · Organizar](Parte-2-Organizar.md) <sub>10–18</sub>
+- [**III** · Crear](Parte-3-Crear.md) <sub>19–27</sub>
+- [**IV** · Leer, escuchar y estudiar](Parte-4-Leer-escuchar-y-estudiar.md) <sub>28–34</sub>
+- [**V** · Inteligencia artificial](Parte-5-Inteligencia-artificial.md) <sub>35–40</sub>
+- [**VI** · Conectar](Parte-6-Conectar.md) <sub>41–47</sub>
+- [**VII** · Tu cuenta](Parte-7-Tu-cuenta.md) <sub>48–50</sub>
 
-**Capturar y tener a mano**
+**Los aparatos**
 
-- 📸 [Captura](Captura.md)
-- 📌 [Pines flotantes](Pines-flotantes.md)
-- 💬 [Chats y proyectos](Chats-y-proyectos.md)
-
-**Crear, leer y anotar**
-
-- ✏️ [Lienzo](Lienzo.md)
-- 📖 [Lector de documentos](Lector-de-documentos.md)
-- 📐 [Planos CAD y BIM](Planos-CAD-BIM.md) ⭐
-- 🔴 [Comentarios avanzados](Comentarios-avanzados.md) ⭐
-- 🗓️ [PinDesk Plantillas](PinDesk-Plantillas.md)
-
-**Organizar y estudiar**
-
-- ✅ [Tareas](Tareas.md)
-- 🎓 [Asignaturas y horario](Asignaturas-y-horario.md)
-- 💡 [Lecciones y estudio](Lecciones-y-estudio.md)
-- 🎙️ [Grabar clases y reuniones](Grabar-clases-y-reuniones.md) ⭐
-
-**Inteligencia artificial**
-
-- 🤖 [Asistente IA](Asistente-IA.md) ⭐
-- ⚡ [Jev](Jev.md) ⭐
-
-**Compartir y conectar**
-
-- 🔄 [Sincronización](Sincronizacion.md)
-- 🌐 [Comunidad](Comunidad.md)
-- 📤 [Exportar y compartir](Exportar-y-compartir.md)
-- 🎵 [Música y karaoke](Musica-y-karaoke.md)
-- ⌨️ [Flow Launcher y atajos](Flow-Launcher-y-atajos.md)
-
-**Tu cuenta**
-
-- 🌍 [Idiomas](Idiomas.md)
-- 💳 [Cuenta y planes](Cuenta-y-planes.md)
-- 🔒 [Privacidad](Privacidad.md)
+- [Lo que tienen en común](Plataformas.md#lo-que-tienen-en-común-las-4)
+- [🪟 Windows](Plataformas.md#windows)
+- [🤖 Android](Plataformas.md#android)
+- [💻 Mac](Plataformas.md#mac)
+- [📱 iPad e iPhone](Plataformas.md#ipad)
 
 ---
 

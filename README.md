@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/banner.svg" alt="PinDesk: capturas, pines, lienzo y proyectos en todos tus aparatos" width="100%">
+  <img src="img/wiki/hero.png" alt="PinDesk: captura, fija, organiza y estudia, en todos tus aparatos" width="100%">
 </p>
 
 <p align="center">
@@ -109,8 +109,13 @@ Todo el detalle está en [Planes: Gratis y Pro](docs/planes.md).
 ## Documentación
 
 - 📥 [Instalar en Windows](docs/instalar.md): paso a paso, actualizar, desinstalar y problemas comunes.
-- 📚 [**Wiki de PinDesk**](wiki/Inicio.md): cada función y cada plataforma (Windows, Android, Mac,
-  iPad e iPhone), con imágenes, paso a paso y sus fortalezas.
+- 📚 [**Wiki de PinDesk**](wiki/Inicio.md): las 50 funciones, numeradas y en siete partes, cada una con
+  su ilustración, su paso a paso y sus fortalezas, y [lo de cada plataforma](wiki/Plataformas.md)
+  (Windows, Android, Mac, iPad e iPhone).
+  - [I · Capturar y fijar](wiki/Parte-1-Capturar-y-fijar.md) · [II · Organizar](wiki/Parte-2-Organizar.md) ·
+    [III · Crear](wiki/Parte-3-Crear.md) · [IV · Leer, escuchar y estudiar](wiki/Parte-4-Leer-escuchar-y-estudiar.md) ·
+    [V · Inteligencia artificial](wiki/Parte-5-Inteligencia-artificial.md) · [VI · Conectar](wiki/Parte-6-Conectar.md) ·
+    [VII · Tu cuenta](wiki/Parte-7-Tu-cuenta.md)
 - 📘 [Guía de funciones](docs/funciones.md): cada parte de PinDesk explicada con calma.
 - 💳 [Planes: Gratis y Pro](docs/planes.md): qué incluye cada uno, cómo comprar y cómo gestionar tus aparatos.
 - ❓ [Preguntas frecuentes](docs/preguntas.md).

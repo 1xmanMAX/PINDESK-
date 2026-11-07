@@ -24,8 +24,8 @@ keep it all organised in **chat-style projects**, like the ones you already use 
 
 The full guides are in Spanish, the app's main language: [installation](../docs/instalar.md),
 [features](../docs/funciones.md), [plans](../docs/planes.md) and [FAQ](../docs/preguntas.md).
-The [wiki](../wiki/Inicio.md) covers every feature on every platform, with an
-[English summary](../wiki/en/Home.md).
+The [wiki](../wiki/Inicio.md) lists all 50 features, numbered and illustrated, plus
+[each platform](../wiki/Plataformas.md), with an [English summary](../wiki/en/Home.md).
 
 ## Download
 
