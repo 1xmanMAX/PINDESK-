@@ -1,0 +1,71 @@
+name: Proponer una función
+description: Una idea para que PinDesk te sirva mejor.
+title: "[Idea] "
+labels: ["idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ¡Gracias por la idea! Muchas funciones de PinDesk nacieron así.
+
+        Antes de seguir, mira la [guía de funciones](https://github.com/1xmanMAX/PINDESK-/blob/main/docs/funciones.md): puede que ya exista.
+  - type: textarea
+    id: problema
+    attributes:
+      label: ¿Qué quieres conseguir?
+      description: Cuéntanos la situación, no solo la solución. Por ejemplo, «en clase quiero…» o «cuando reviso un plano me cuesta…».
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: ¿Cómo te imaginas que funcione?
+      description: Lo que verías, lo que pulsarías, dónde estaría.
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: ¿En qué parte de PinDesk encaja?
+      options:
+        - Captura
+        - Pines flotantes
+        - Chats y proyectos
+        - Lienzo
+        - Tareas, asignaturas u horario
+        - Timeline o lecciones
+        - Lector de PDF u Office
+        - Planos o modelos 3D
+        - Comentarios
+        - Grabar clase o reunión
+        - Sincronizar
+        - PinDesk Plantillas
+        - Asistente con IA
+        - Flow Launcher
+        - Atajos, bandeja o ajustes
+        - Algo nuevo
+    validations:
+      required: true
+  - type: checkboxes
+    id: plataformas
+    attributes:
+      label: ¿Dónde la usarías?
+      options:
+        - label: Windows
+        - label: Android
+        - label: Mac
+        - label: iPad
+  - type: textarea
+    id: alternativas
+    attributes:
+      label: ¿Cómo lo haces ahora?
+      description: Si ahora usas otra app o un truco, cuéntanoslo.
+    validations:
+      required: false
+  - type: textarea
+    id: ejemplos
+    attributes:
+      label: Imágenes o ejemplos
+      description: Un dibujo, una captura de otra app o un enlace que ayude a entenderlo.
+    validations:
+      required: false

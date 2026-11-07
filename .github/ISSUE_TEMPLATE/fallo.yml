@@ -1,0 +1,109 @@
+name: Informar de un fallo
+description: Algo no funciona como debería en PinDesk.
+title: "[Fallo] "
+labels: ["fallo"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ¡Gracias por avisar! Cuanto más detalle nos des, antes lo arreglamos.
+
+        **Esto es público**: no pongas tu correo, contraseñas, claves ni datos de pago. Para asuntos de tu cuenta o un pago, escribe a max.antony.8.5.1@gmail.com.
+
+        Antes de seguir, mira si ya está en las [preguntas frecuentes](https://github.com/1xmanMAX/PINDESK-/blob/main/docs/preguntas.md) o en los [problemas comunes de instalación](https://github.com/1xmanMAX/PINDESK-/blob/main/docs/instalar.md#problemas-comunes).
+  - type: dropdown
+    id: plataforma
+    attributes:
+      label: ¿En qué aparato?
+      options:
+        - Windows 11
+        - Windows 10
+        - Android
+        - Mac
+        - iPad
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Versión de PinDesk
+      description: La de la página de Releases desde la que la descargaste. Si no la sabes, pon la fecha en que la descargaste.
+      placeholder: "Por ejemplo: v1.0.0, o «descargada el 7 de noviembre»"
+    validations:
+      required: true
+  - type: dropdown
+    id: plan
+    attributes:
+      label: Tu plan
+      options:
+        - Gratis
+        - Pro
+        - No lo sé
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: ¿En qué parte de PinDesk?
+      options:
+        - Instalar o actualizar
+        - Iniciar sesión o cuenta
+        - Captura
+        - Pines flotantes
+        - Chats y proyectos
+        - Lienzo
+        - Tareas, asignaturas u horario
+        - Timeline o lecciones
+        - Lector de PDF u Office
+        - Planos o modelos 3D
+        - Comentarios
+        - Grabar clase o reunión
+        - Sincronizar por Wi-Fi
+        - Sincronizar por la nube
+        - PinDesk Plantillas
+        - Asistente con IA
+        - Flow Launcher
+        - Atajos, bandeja o ajustes
+        - Otra
+    validations:
+      required: true
+  - type: textarea
+    id: que-paso
+    attributes:
+      label: ¿Qué pasó?
+      description: Cuéntalo con tus palabras. Si salió un mensaje de error, cópialo tal cual.
+    validations:
+      required: true
+  - type: textarea
+    id: pasos
+    attributes:
+      label: ¿Cómo lo repetimos?
+      description: Los pasos para que nos pase a nosotros también.
+      placeholder: |
+        1. Abro…
+        2. Pulso…
+        3. Sale…
+    validations:
+      required: true
+  - type: textarea
+    id: esperado
+    attributes:
+      label: ¿Qué esperabas que pasara?
+    validations:
+      required: false
+  - type: textarea
+    id: capturas
+    attributes:
+      label: Capturas o vídeo
+      description: Arrastra aquí una captura o un vídeo corto si ayuda. Tapa antes lo que sea privado.
+    validations:
+      required: false
+  - type: checkboxes
+    id: comprobaciones
+    attributes:
+      label: Comprobaciones
+      options:
+        - label: Busqué en los issues y no hay otro igual.
+          required: true
+        - label: No he puesto datos personales, claves ni datos de pago.
+          required: true

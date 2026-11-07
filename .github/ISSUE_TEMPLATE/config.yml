@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Preguntas frecuentes
+    url: https://github.com/1xmanMAX/PINDESK-/blob/main/docs/preguntas.md
+    about: Mira si tu duda ya tiene respuesta.
+  - name: Cuenta, pagos o datos personales
+    url: mailto:max.antony.8.5.1@gmail.com
+    about: Para asuntos privados escribe por correo. No los publiques en un issue.
