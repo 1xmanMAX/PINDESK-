@@ -36,6 +36,10 @@ Google**. Esa cuenta es la que identifica tu plan y tus aparatos.
 
 Cada función está explicada en la [Guía de funciones](funciones.md).
 
+## Prueba gratis de Pro
+
+Cada cuenta nueva de Google tiene **30 días de Pro gratis** para probarlo todo. Al terminar la prueba sigues con el plan Gratis y no se borra nada de lo que hiciste.
+
 ## Modalidades de Pro y precios
 
 | Modalidad | Cómo se paga | Aparatos | Precio |
