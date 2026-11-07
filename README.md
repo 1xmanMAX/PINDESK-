@@ -16,6 +16,7 @@
 <p align="center">
   <a href="https://github.com/1xmanMAX/PINDESK-/releases/latest">Todas las versiones</a> ·
   <a href="docs/instalar.md">Cómo instalar</a> ·
+  <a href="wiki/Inicio.md"><b>Wiki</b></a> ·
   <a href="docs/funciones.md">Guía de funciones</a> ·
   <a href="docs/planes.md">Gratis y Pro</a> ·
   <a href="docs/preguntas.md">Preguntas frecuentes</a> ·
@@ -108,6 +109,8 @@ Todo el detalle está en [Planes: Gratis y Pro](docs/planes.md).
 ## Documentación
 
 - 📥 [Instalar en Windows](docs/instalar.md): paso a paso, actualizar, desinstalar y problemas comunes.
+- 📚 [**Wiki de PinDesk**](wiki/Inicio.md): cada función y cada plataforma (Windows, Android, Mac,
+  iPad e iPhone), con imágenes, paso a paso y sus fortalezas.
 - 📘 [Guía de funciones](docs/funciones.md): cada parte de PinDesk explicada con calma.
 - 💳 [Planes: Gratis y Pro](docs/planes.md): qué incluye cada uno, cómo comprar y cómo gestionar tus aparatos.
 - ❓ [Preguntas frecuentes](docs/preguntas.md).
