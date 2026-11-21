@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/1xmanMAX/PINDESK-/releases/latest/download/PinDesk-Windows-x64.zip"><img alt="Descargar para Windows" src="https://img.shields.io/badge/Descargar-Windows%2010%2F11-0A84FF?style=for-the-badge&logo=windows&logoColor=white"></a>
+  <a href="https://github.com/1xmanMAX/PINDESK-/releases/latest/download/PinDesk-Windows-x64-Setup.exe"><img alt="Descargar para Windows" src="https://img.shields.io/badge/Descargar-Windows%2010%2F11-0A84FF?style=for-the-badge&logo=windows&logoColor=white"></a>
   <img alt="Android: próximamente" src="https://img.shields.io/badge/Android-pr%C3%B3ximamente-8E8E93?style=for-the-badge&logo=android&logoColor=white">
   <img alt="Mac: próximamente" src="https://img.shields.io/badge/Mac-pr%C3%B3ximamente-8E8E93?style=for-the-badge&logo=apple&logoColor=white">
   <img alt="iPad: próximamente" src="https://img.shields.io/badge/iPad-pr%C3%B3ximamente-8E8E93?style=for-the-badge&logo=apple&logoColor=white">
@@ -41,7 +41,7 @@ la vez. Arranca al instante y va fluida incluso en equipos modestos.
 
 | Plataforma | Estado | Enlace |
 |---|---|---|
-| 🪟 **Windows 10 (21H2 o posterior) y 11** | Disponible | [**Descargar PinDesk para Windows (ZIP)**](https://github.com/1xmanMAX/PINDESK-/releases/latest/download/PinDesk-Windows-x64.zip) |
+| 🪟 **Windows 10 (21H2 o posterior) y 11** | Disponible | [**Descargar PinDesk para Windows (instalador)**](https://github.com/1xmanMAX/PINDESK-/releases/latest/download/PinDesk-Windows-x64-Setup.exe) |
 | 🤖 **Android** | Próximamente | Se publicará en esta misma página |
 | 💻 **Mac** | Próximamente | Se publicará en esta misma página |
 | 📱 **iPad** | Próximamente | Se publicará en esta misma página |

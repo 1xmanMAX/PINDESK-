@@ -50,11 +50,10 @@ En todas hace falta una **cuenta de Google** para iniciar sesión. La descarga p
 
 **Estado: ✅ disponible.** Windows es la versión de referencia: aquí nace cada función y desde aquí llega a los demás aparatos.
 
-### Instalar, en tres pasos
+### Instalar, en dos pasos
 
-1. **Descarga** el ZIP: [PinDesk-Windows-x64.zip](https://github.com/1xmanMAX/PINDESK-/releases/latest/download/PinDesk-Windows-x64.zip).
-2. **Extráelo**: clic derecho → **Extraer todo…** → **Extraer**.
-3. Abre **`Instalar.cmd`** desde la carpeta extraída. Se instala solo para tu usuario, sin permisos de administrador, y crea **PinDesk** y **PinDesk Plantillas** en el menú Inicio.
+1. **Descarga** el instalador: [PinDesk-Windows-x64-Setup.exe](https://github.com/1xmanMAX/PINDESK-/releases/latest/download/PinDesk-Windows-x64-Setup.exe).
+2. **Ábrelo** y pulsa **Instalar**. Se instala solo para tu usuario, sin permisos de administrador, y crea **PinDesk** y **PinDesk Plantillas** en el menú Inicio. Después se actualiza sola.
 
 Si Windows dice «Windows protegió su PC», pulsa **Más información → Ejecutar de todas formas**. La primera vez, deja que PinDesk use la red (**Permitir**). Todo el detalle: [Instalar en Windows](../docs/instalar.md).
 

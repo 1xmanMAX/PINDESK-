@@ -15,25 +15,21 @@ Contenido: [Instalar](#instalar-paso-a-paso) · [SmartScreen](#si-windows-dice-w
 
 ## Instalar, paso a paso
 
-1. **Descarga el ZIP**:
-   [PinDesk-Windows-x64.zip](https://github.com/1xmanMAX/PINDESK-/releases/latest/download/PinDesk-Windows-x64.zip).
+1. **Descarga el instalador**:
+   [PinDesk-Windows-x64-Setup.exe](https://github.com/1xmanMAX/PINDESK-/releases/latest/download/PinDesk-Windows-x64-Setup.exe).
    Siempre es la última versión. Normalmente se guarda en tu carpeta **Descargas**.
-2. **Extrae el ZIP**: en el Explorador de archivos, haz **clic derecho** sobre
-   `PinDesk-Windows-x64.zip` → **Extraer todo…** → **Extraer**. Se abre una carpeta nueva con los
-   archivos de PinDesk.
-
-   > [!IMPORTANT]
-   > No abras los archivos directamente desde dentro del ZIP (con doble clic sobre el ZIP).
-   > Windows los saca de uno en uno a una carpeta temporal y PinDesk no encuentra sus piezas.
-   > Extráelo siempre primero.
-
-3. **Abre `Instalar.cmd`** con doble clic, **desde la carpeta extraída**. Se abre un momento una
-   ventana negra que:
-   - copia PinDesk a `%LOCALAPPDATA%\Programs\PinDesk`;
+2. **Ábrelo** con doble clic y pulsa **Instalar**. El instalador:
+   - copia PinDesk a `%LOCALAPPDATA%\Programs\PinDesk` (solo para tu usuario, sin permisos de
+     administrador);
    - crea los accesos **PinDesk** y **PinDesk Plantillas** en el menú Inicio;
+   - la añade a **Aplicaciones instaladas** de Windows, para poder desinstalarla desde ahí;
    - y abre PinDesk.
-4. Listo. PinDesk se queda en la **bandeja del sistema** (junto al reloj). Ya puedes borrar el ZIP
-   y la carpeta extraída si quieres.
+3. Listo. PinDesk se queda en la **bandeja del sistema** (junto al reloj). Ya puedes borrar el
+   instalador si quieres.
+
+¿Prefieres no usar instalador? También está el ZIP:
+[PinDesk-Windows-x64.zip](https://github.com/1xmanMAX/PINDESK-/releases/latest/download/PinDesk-Windows-x64.zip). Extráelo (clic derecho → **Extraer todo…**) y abre
+`Instalar.cmd` desde la carpeta extraída.
 
 Opcional: en **Configuración de Windows → Aplicaciones → Aplicaciones predeterminadas** puedes
 elegir PinDesk para abrir fotos, vídeos, audios o PDF.
@@ -44,15 +40,15 @@ Es el filtro **SmartScreen** de Windows. Sale con los programas que se descargan
 todavía no tienen muchas descargas. Para seguir:
 
 1. Pulsa **Más información**.
-2. Comprueba que el archivo es `Instalar.cmd` o `pindesk.exe`.
+2. Comprueba que el archivo es `PinDesk-Windows-x64-Setup.exe` (o `Instalar.cmd` / `pindesk.exe` si usas el ZIP).
 3. Pulsa **Ejecutar de todas formas**.
 
-Puede salir una o dos veces (para `Instalar.cmd` y para la primera vez que se abre PinDesk). Después
+Puede salir una o dos veces (para el instalador y para la primera vez que se abre PinDesk). Después
 ya no vuelve a preguntar.
 
 > [!NOTE]
 > Descarga PinDesk **solo desde esta página** (`github.com/1xmanMAX/PINDESK-`). Si alguien te pasa
-> el ZIP por otro lado, no podemos garantizar que sea el original.
+> el instalador por otro lado, no podemos garantizar que sea el original.
 
 ## El primer arranque
 
@@ -66,11 +62,11 @@ ya no vuelve a preguntar.
 
 ## Actualizar
 
-1. Descarga el ZIP nuevo con el mismo enlace de siempre:
-   [PinDesk-Windows-x64.zip](https://github.com/1xmanMAX/PINDESK-/releases/latest/download/PinDesk-Windows-x64.zip).
-2. Extráelo y abre `Instalar.cmd`, igual que la primera vez.
+PinDesk **se actualiza sola**: cuando hay una versión nueva te avisa y la instala. Si quieres
+hacerlo a mano, descarga el instalador con el mismo enlace de siempre
+([PinDesk-Windows-x64-Setup.exe](https://github.com/1xmanMAX/PINDESK-/releases/latest/download/PinDesk-Windows-x64-Setup.exe)) y ábrelo: cambia los programas por los nuevos.
 
-`Instalar.cmd` cierra PinDesk si estaba abierta, cambia los programas por los nuevos y la vuelve a
+El instalador (o `Instalar.cmd`) cierra PinDesk si estaba abierta, cambia los programas por los nuevos y la vuelve a
 abrir. **Tus datos no se tocan**: chats, tareas, capturas, ajustes y tu sesión siguen igual.
 
 Si tenías **PixPin Max** (el nombre anterior de PinDesk), `Instalar.cmd` la sustituye y tus datos
