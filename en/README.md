@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/1xmanMAX/PINDESK-/releases/latest/download/PinDesk-Windows-x64-Setup.exe"><img alt="Download for Windows" src="https://img.shields.io/badge/Download-Windows%2010%2F11-0A84FF?style=for-the-badge&logo=windows&logoColor=white"></a>
-  <a href="https://github.com/1xmanMAX/PINDESK-/releases/download/android-v0.246.0/PinDesk-Android.apk"><img alt="Download for Android" src="https://img.shields.io/badge/Download-Android%2010%2B%20(beta)-34C759?style=for-the-badge&logo=android&logoColor=white"></a>
+  <a href="https://github.com/1xmanMAX/PINDESK-/releases/download/android-v0.247.0/PinDesk-Android.apk"><img alt="Download for Android" src="https://img.shields.io/badge/Download-Android%2010%2B%20(beta)-34C759?style=for-the-badge&logo=android&logoColor=white"></a>
   <img alt="Mac: coming soon" src="https://img.shields.io/badge/Mac-coming%20soon-8E8E93?style=for-the-badge&logo=apple&logoColor=white">
   <img alt="iPad: coming soon" src="https://img.shields.io/badge/iPad-coming%20soon-8E8E93?style=for-the-badge&logo=apple&logoColor=white">
 </p>
@@ -32,7 +32,7 @@ The [wiki](../wiki/Inicio.md) lists all 50 features, numbered and illustrated, p
 | Platform | Status |
 |---|---|
 | 🪟 **Windows 10 (21H2 or later) and 11**, 64-bit | [**Download PinDesk for Windows (installer)**](https://github.com/1xmanMAX/PINDESK-/releases/latest/download/PinDesk-Windows-x64-Setup.exe) |
-| 🤖 **Android 10 or later** (beta) | [**Download PinDesk for Android (APK)**](https://github.com/1xmanMAX/PINDESK-/releases/download/android-v0.246.0/PinDesk-Android.apk) · updates itself from the app |
+| 🤖 **Android 10 or later** (beta) | [**Download PinDesk for Android (APK)**](https://github.com/1xmanMAX/PINDESK-/releases/download/android-v0.247.0/PinDesk-Android.apk) · updates itself from the app |
 | 💻 **Mac** | Coming soon |
 | 📱 **iPad** | Coming soon |
 
